@@ -18,12 +18,7 @@ func (p MailBuilder) BuildDraft() (*Part, error) {
 	if p.from.Address == "" {
 		return nil, errors.New("from not set")
 	}
-	if p.subject == "" {
-		return nil, errors.New("subject not set")
-	}
-	if len(p.to)+len(p.cc)+len(p.bcc) == 0 {
-		return nil, errors.New("no recipients (to, cc, bcc) set")
-	}
+
 	// Fully loaded structure; the presence of text, html, inlines, and attachments will determine
 	// how much is necessary:
 	//
