@@ -5,7 +5,7 @@ import (
 	"testing"
 	"unicode/utf8"
 
-	"github.com/jhillyerd/enmime/internal/stringutil"
+	"github.com/xhbase/enmime/internal/stringutil"
 )
 
 func TestToASCII(t *testing.T) {

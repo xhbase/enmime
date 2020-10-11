@@ -5,7 +5,7 @@ import (
 	"net/textproto"
 	"time"
 
-	"github.com/jhillyerd/enmime/internal/stringutil"
+	"github.com/xhbase/enmime/internal/stringutil"
 )
 
 // Build performs some basic validations, then constructs a tree of Part structs from the configured

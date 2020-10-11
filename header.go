@@ -8,8 +8,8 @@ import (
 	"net/textproto"
 	"strings"
 
-	"github.com/jhillyerd/enmime/internal/coding"
 	"github.com/pkg/errors"
+	"github.com/xhbase/enmime/internal/coding"
 )
 
 const (

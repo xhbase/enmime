@@ -13,8 +13,8 @@ import (
 	"time"
 
 	"github.com/gogs/chardet"
-	"github.com/jhillyerd/enmime/internal/coding"
 	"github.com/pkg/errors"
+	"github.com/xhbase/enmime/internal/coding"
 )
 
 const (

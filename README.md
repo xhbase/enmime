@@ -1,8 +1,8 @@
 # enmime
-[![PkgGoDev](https://pkg.go.dev/badge/github.com/jhillyerd/enmime)][Pkg Docs]
-[![Build Status](https://travis-ci.org/jhillyerd/enmime.svg?branch=master)][Build Status]
-[![Go Report Card](https://goreportcard.com/badge/github.com/jhillyerd/enmime)][Go Report Card]
-[![Coverage Status](https://coveralls.io/repos/github/jhillyerd/enmime/badge.svg?branch=master)][Coverage Status]
+[![PkgGoDev](https://pkg.go.dev/badge/github.com/xhbase/enmime)][Pkg Docs]
+[![Build Status](https://travis-ci.org/xhbase/enmime.svg?branch=master)][Build Status]
+[![Go Report Card](https://goreportcard.com/badge/github.com/xhbase/enmime)][Go Report Card]
+[![Coverage Status](https://coveralls.io/repos/github/xhbase/enmime/badge.svg?branch=master)][Coverage Status]
 
 
 enmime is a MIME encoding and decoding library for Go, focused on generating and
@@ -29,14 +29,14 @@ See [CONTRIBUTING.md] for more information.
 enmime is written in [Go][Golang].
 
 enmime is open source software released under the MIT License.  The latest
-version can be found at https://github.com/jhillyerd/enmime
+version can be found at https://github.com/xhbase/enmime
 
 
-[Build Status]:    https://travis-ci.org/jhillyerd/enmime
-[Builder Usage]:   https://github.com/jhillyerd/enmime/wiki/Builder-Usage 
-[Coverage Status]: https://coveralls.io/github/jhillyerd/enmime
-[CONTRIBUTING.md]: https://github.com/jhillyerd/enmime/blob/master/CONTRIBUTING.md
+[Build Status]:    https://travis-ci.org/xhbase/enmime
+[Builder Usage]:   https://github.com/xhbase/enmime/wiki/Builder-Usage 
+[Coverage Status]: https://coveralls.io/github/xhbase/enmime
+[CONTRIBUTING.md]: https://github.com/xhbase/enmime/blob/master/CONTRIBUTING.md
 [Inbucket]:        http://www.inbucket.org/
 [Golang]:          http://golang.org/
-[Go Report Card]:  https://goreportcard.com/report/github.com/jhillyerd/enmime
-[Pkg Docs]:        https://pkg.go.dev/github.com/jhillyerd/enmime
+[Go Report Card]:  https://goreportcard.com/report/github.com/xhbase/enmime
+[Pkg Docs]:        https://pkg.go.dev/github.com/xhbase/enmime

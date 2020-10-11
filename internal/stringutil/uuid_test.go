@@ -3,7 +3,7 @@ package stringutil_test
 import (
 	"testing"
 
-	"github.com/jhillyerd/enmime/internal/stringutil"
+	"github.com/xhbase/enmime/internal/stringutil"
 )
 
 func TestUUID(t *testing.T) {
